@@ -7,7 +7,7 @@
   "author": "Acode Foundation",
   "license": "MIT",
   "dependencies": {
-    "@types/ace": "^0.0.52",
+    "acode-plugin-types": "^1.11.7-patch.2",
     "html-tag-js": "^2.4.15"
   },
   "devDependencies": {
